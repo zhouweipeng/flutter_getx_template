@@ -1,0 +1,74 @@
+name: yhlz_flutter_template
+
+description: 元亨利贞flutter&getx开发模板
+
+# 需要发布到pub.dev的话就删除这一行
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  # ios风格图标库
+#  cupertino_icons: ^1.0.4
+  # getX
+  get: ^4.6.1
+  # 提供国际化和本地化工具，包括消息翻译、复数和性别、日期/数字格式和分析以及双向文本
+  intl: ^0.17.0
+  # 屏幕适配
+  flutter_screenutil: ^5.1.0
+  # 下拉刷新
+#  pull_to_refresh: ^2.0.0
+  # 另一个下拉刷新
+#  flutter_easyrefresh: ^2.2.1
+  # toast
+  fluttertoast: ^8.0.8
+  # loading
+  flutter_easyloading: ^3.0.3
+  # http
+  dio: ^4.0.4
+  dio_cookie_manager: ^2.0.0
+  cookie_jar: ^3.0.1
+  # 缓存
+  shared_preferences: ^2.0.12
+  # 加密安全 SHA
+#  crypto: ^3.0.1
+  # 设备信息
+  device_info_plus: ^3.2.2
+  # 通过 scheme 打开APP 获取 参数
+#  uni_links: ^0.5.1
+  # sqlite本地数据库
+  sqflite: ^2.0.2
+  # 请求权限
+#  permission_handler: ^9.2.0
+  # 提供文件系统常用位置
+#  path_provider: ^2.0.9
+  # 下载文件
+#  flutter_downloader: ^1.7.2
+  # 图表
+#  fl_chart: ^0.41.0
+  # webview
+#  webview_flutter: ^3.0.0
+  # 日志打印
+#  logger: ^1.1.0
+  # dart 工具类 https://pub.dev/packages/quiver
+#  quiver: ^3.0.1+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Iconfont
+      fonts:
+        - asset: assets/fonts/iconfont.ttf
