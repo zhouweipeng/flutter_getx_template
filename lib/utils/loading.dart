@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
-import 'package:yhlz_flutter_template/style/style.dart';
+import 'package:flutter_getx_template/style/style.dart';
 
 class Loading {
   static init() {

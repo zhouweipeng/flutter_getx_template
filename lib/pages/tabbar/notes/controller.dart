@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
-import 'package:yhlz_flutter_template/models/models.dart';
-import 'package:yhlz_flutter_template/routes/routes.dart';
-import 'package:yhlz_flutter_template/sqlite/sqlite.dart';
+import 'package:flutter_getx_template/models/models.dart';
+import 'package:flutter_getx_template/routes/routes.dart';
+import 'package:flutter_getx_template/sqlite/sqlite.dart';
 
 import 'index.dart';
 

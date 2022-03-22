@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:yhlz_flutter_template/apis/apis.dart';
-import 'package:yhlz_flutter_template/models/models.dart';
-import 'package:yhlz_flutter_template/routes/routes.dart';
-import 'package:yhlz_flutter_template/store/store.dart';
-import 'package:yhlz_flutter_template/utils/utils.dart';
+import 'package:flutter_getx_template/apis/apis.dart';
+import 'package:flutter_getx_template/models/models.dart';
+import 'package:flutter_getx_template/routes/routes.dart';
+import 'package:flutter_getx_template/store/store.dart';
+import 'package:flutter_getx_template/utils/utils.dart';
 
 import 'index.dart';
 

@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:yhlz_flutter_template/models/models.dart';
+import 'package:flutter_getx_template/models/models.dart';
 
 class NotesState {
   // 笔记列表

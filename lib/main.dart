@@ -3,12 +3,12 @@ import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
-import 'package:yhlz_flutter_template/langs/translation_service.dart';
-import 'package:yhlz_flutter_template/routes/routes.dart';
-import 'package:yhlz_flutter_template/store/store.dart';
-import 'package:yhlz_flutter_template/style/style.dart';
-import 'package:yhlz_flutter_template/utils/utils.dart';
-import 'package:yhlz_flutter_template/global.dart';
+import 'package:flutter_getx_template/langs/translation_service.dart';
+import 'package:flutter_getx_template/routes/routes.dart';
+import 'package:flutter_getx_template/store/store.dart';
+import 'package:flutter_getx_template/style/style.dart';
+import 'package:flutter_getx_template/utils/utils.dart';
+import 'package:flutter_getx_template/global.dart';
 
 Future<void> main() async {
   await Global.init();

@@ -1,6 +1,6 @@
-name: yhlz_flutter_template
+name: flutter_getx_template
 
-description: 元亨利贞flutter&getx开发模板
+description: flutter&getx开发模板
 
 # 需要发布到pub.dev的话就删除这一行
 publish_to: "none"

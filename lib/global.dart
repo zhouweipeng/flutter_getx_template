@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:yhlz_flutter_template/services/services.dart';
-import 'package:yhlz_flutter_template/store/store.dart';
-import 'package:yhlz_flutter_template/utils/utils.dart';
+import 'package:flutter_getx_template/services/services.dart';
+import 'package:flutter_getx_template/store/store.dart';
+import 'package:flutter_getx_template/utils/utils.dart';
 import 'package:get/get.dart';
 
 /// 初始化服务

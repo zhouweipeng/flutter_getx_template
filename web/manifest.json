@@ -1,6 +1,6 @@
 {
-  "name": "yhlz_flutter_template",
-  "short_name": "yhlz_flutter_template",
+  "name": "flutter_getx_template",
+  "short_name": "flutter_getx_template",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0175C2",

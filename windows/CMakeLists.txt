@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(yhlz_flutter_template LANGUAGES CXX)
+project(flutter_getx_template LANGUAGES CXX)
 
-set(BINARY_NAME "yhlz_flutter_template")
+set(BINARY_NAME "flutter_getx_template")
 
 cmake_policy(SET CMP0063 NEW)
 

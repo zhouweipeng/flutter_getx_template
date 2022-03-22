@@ -1,4 +1,4 @@
-package com.yhlz.yhlz_flutter_template
+package com.zwp.flutter_getx_template
 
 import io.flutter.embedding.android.FlutterActivity
 

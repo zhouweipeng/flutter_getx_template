@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:yhlz_flutter_template/models/models.dart';
-import 'package:yhlz_flutter_template/style/style.dart';
+import 'package:flutter_getx_template/models/models.dart';
+import 'package:flutter_getx_template/style/style.dart';
 
 import 'index.dart';
 

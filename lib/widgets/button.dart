@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:yhlz_flutter_template/style/style.dart';
+import 'package:flutter_getx_template/style/style.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 /// 扁平圆角按钮

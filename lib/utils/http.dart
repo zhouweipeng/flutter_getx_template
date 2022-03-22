@@ -2,9 +2,9 @@ import 'dart:async';
 import 'package:cookie_jar/cookie_jar.dart';
 import 'package:dio/dio.dart';
 import 'package:dio_cookie_manager/dio_cookie_manager.dart';
-import 'package:yhlz_flutter_template/store/store.dart';
-import 'package:yhlz_flutter_template/utils/utils.dart';
-import 'package:yhlz_flutter_template/config/config.dart';
+import 'package:flutter_getx_template/store/store.dart';
+import 'package:flutter_getx_template/utils/utils.dart';
+import 'package:flutter_getx_template/config/config.dart';
 import 'package:get/get.dart' hide FormData;
 
 class HttpUtil {

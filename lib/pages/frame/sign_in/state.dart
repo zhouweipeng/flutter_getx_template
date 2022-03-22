@@ -1,4 +1,4 @@
-import 'package:yhlz_flutter_template/models/models.dart';
+import 'package:flutter_getx_template/models/models.dart';
 
 class SignInState {
   final title = '欢迎登录';
